@@ -1,7 +1,7 @@
-LiveTV-SoapLinkFinder
+LiveTV-SopLinkFinder
 =====================
 
 version 0.1
 
 
-Comments parser for fresh soap links
+Comments parser for fresh sop links
