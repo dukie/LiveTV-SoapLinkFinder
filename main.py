@@ -15,9 +15,8 @@ expr = re.compile(u'a href=\"http:\/\/livetv.sx\/eventinfo\/(?P<linkPart>[0-9_a-
 soupExpr = re.compile('sop:\/\/', re.I)
 numberExpr = re.compile('(?P<lastPageNumber>[0-9]+)', re.I)
 
-
+#Templates
 searchTemplate = "https://www.google.ru/search?newwindow=1&q=inurl:eventinfo+site:livetv.sx+{0}"
-
 bcTemplate = 'http://livetv.sx/eventinfo/{0}/'
 
 
